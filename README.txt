@@ -32,4 +32,5 @@ Visualizar os principais KPIs de vendas de forma clara e estratégica, apoiando 
 O arquivo `.pbix` está disponível na pasta `Arquivo/`.
 
 ## 📬 Contato
-Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/anabiia/)
+Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7402083351383248896/)
+
