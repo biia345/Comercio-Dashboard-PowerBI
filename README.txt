@@ -46,3 +46,4 @@ O objetivo foi criar um dashboard interativo no Power BI para acompanhar os prin
 
 Projeto criado e analisado por **Ana Beatriz Marques Ferreira**  
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a/)
+
