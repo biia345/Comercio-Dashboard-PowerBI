@@ -31,17 +31,13 @@ Visualizar os principais KPIs de vendas de forma clara e estratégica, apoiando 
 
 Aqui você pode visualizar uma prévia do dashboard:  
 
-![Preview do Dashboard de Comércio](Imagens/dashboard-comercio.png)
+![Preview do Dashboard de Comércio](Imagens/Preview1)
 
 *(adicione o print do dashboard na pasta `Imagens/` e ajuste o nome do arquivo conforme necessário)*
 
 ---
 
-📁 **Arquivo disponível no GitHub**  
-🔗 [https://github.com/biia345/Marketing-Dashboard-PowerBI](https://github.com/biia345/Marketing-Dashboard-PowerBI)
-
----
-
 👩‍💻 **Autoria**  
 Projeto criado e analisado por **Ana Beatriz Marques Ferreira**  
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/anabiia/)
+Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/anabiia/](https://www.linkedin.com/feed/update/urn:li:activity:7402083351383248896/))
+
